@@ -75,7 +75,7 @@ function Login() {
 
                             </div>
                             <div className="form-group">
-                                <label htmlFor="exampleInputEmail1" className="form-label mt-4">
+                                <label htmlFor="exampleInputpassword" className="form-label mt-4">
                                     Password
                                 </label>
                                 <input
@@ -83,7 +83,7 @@ function Login() {
                                     onChange={handleChange}
                                     name='password'
                                     className="form-control"
-                                    id="exampleInputEmail1"
+                                    id="exampleInputpassword"
                                     aria-describedby="emailHelp"
                                     placeholder="Enter password"
                                 />
