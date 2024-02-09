@@ -1,1 +1,1 @@
-export const API_URL="https://servertodo-wqui.onrender.com/"
+export const API_URL="https://servertodo-wqui.onrender.com/api"
